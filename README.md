@@ -29,6 +29,8 @@ A suggested tip amount is displayed as the result.
 - HTML5
 - CSS3
 - JavaScript ES6
+- JQuery
+- Bootstrap
 
 ## Deployed Site
 [tipCalc](https://jamiller445.github.io/tipCalc/)
